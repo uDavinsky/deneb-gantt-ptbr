@@ -1,4 +1,4 @@
-<video src="VideoDemo.mp4" controls="controls" width="100%"></video>
+![Capa do Gráfico de Gantt Deneb](Gantt%20Davd%20Thumbnail.png)
 
 # Gráfico de Gantt Avançado para Power BI (Deneb / Vega) - PT-BR
 
