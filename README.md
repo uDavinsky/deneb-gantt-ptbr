@@ -1,3 +1,5 @@
+![Capa do Gráfico de Gantt Deneb](Gantt Davd Thumbnail.png)
+
 # Gráfico de Gantt Avançado para Power BI (Deneb / Vega) - PT-BR
 
 ## 📖 Sobre o Projeto
