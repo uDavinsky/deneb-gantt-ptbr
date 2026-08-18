@@ -39,7 +39,7 @@ Partindo do código original (v2.1), implementei as seguintes melhorias:
 
 ## 👏 Créditos
 
-* **Código Original (v2.1):** [Davide Bacci](https://github.com/PBI-David/Deneb-Showcase) - O verdadeiro gênio por trás da estrutura Vega deste Gantt.
+* **Código Original (v2.1):** [David Bacci (PBI-David)](https://github.com/PBI-David/Deneb-Showcase) - O verdadeiro gênio por trás da estrutura Vega deste Gantt.
 * **Adaptação, Correções de Bug e PT-BR:** David Junior da Silva
 
 ---
